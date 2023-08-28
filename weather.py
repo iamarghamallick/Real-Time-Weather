@@ -1,3 +1,8 @@
+# pip install geopy
+# pip install timezonefinder
+# pip install requests
+# pip install pytz
+
 API_KEY = "c4910bb187874a6893f170604232603"
 
 from tkinter import *
